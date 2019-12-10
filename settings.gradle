@@ -1,0 +1,2 @@
+include ':app', ':xframe'
+rootProject.name='npc'
